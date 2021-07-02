@@ -1,0 +1,21 @@
+{
+	"name": "saxToken-public-sale",
+	"varsion": "1.0.0",
+	"description": "Saxion Token Sale ICO",
+	"main": "truffle-config.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"dev": "lite-server"
+	},
+	"author": "Yehor",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.3.0"
+	},
+	"dependencies": {
+		"@truffle/contract": "^4.3.19",
+		"truffle-contract": "^4.0.31"
+	}
+}
